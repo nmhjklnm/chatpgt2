@@ -2,8 +2,7 @@ import streamlit as st  # 导入Streamlit库
 import openai  # 导入OpenAI API库
 
 # 设置OpenAI API密钥
-openai.api_key = "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"
-
+openai.api_key = "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"
 # 可选的模型列表
 models = {
     "gpt-3.5-turbo": "gpt-3.5-turbo",
